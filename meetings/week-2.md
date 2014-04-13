@@ -1,36 +1,38 @@
-# Week 2 sponsor meeting report
+# Week 2 Sponsor Meeting Report
 
-Team SimSquirrel
+Team Sentence Sense
 
-Gavin Chen, Katarzyna Dushkina, Priya Kaur, Jeff Couzin
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
 ## Present at meeting
 
+Derick, Darien, Tsz Hang, Nick (remote)
+
 ### Sponsors
 
-Kayla James, CEO, Sqrls-R-Us  
-Jeff Smith, Assistant to the CEO, Sqrls-R-Us
+Evelyn Farbman
 
 ### Team
 
-Gavin Chen, Katarzyna Dushkina, Priya Kaur, Jeff Couzin
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
 ## Time and place
 
-Offices of Sqrls-R-Us, Irvine, CA, Tue Apr 8, 11 AM
+ICS 193. Friday April, 11, 2014 at 10 AM PST.
 
 ## Communication schedule
 
-We will meet Kayla and Jeff in person every Monday at Sqrls-R-Us at 12 PM.
+We will have our meeting every Wednesday at 12PM PST through Google Hangouts or Skype.
 
-We will also email them a report of what we have done in the last week, with relevant links to changes on the working application, every Sunday by 8 PM.
+We will email the sponsor with any changes and progress we have made on a weekly basis.
+
 
 ## Project goals
 
-Our goal this quarter is to produce a working, live, "minimum viable" version of SimSquirrel. It should be deployed on a subdomain of Sqrls-R-Us's current website, simsquirrel.sqrlsrus.com.
+Our goal this quarter is to update the new website (http://sentencesyntax.com/) into a live, functional website that incorporates the material from the old website (http://www.ccc.commnet.edu/sensen/) 
 
 ## Other notes
 
-Kayla will be out of town May 5 and May 12. We will meet with Jeff on those days. We will also email Kayla on the preceding Sundays as normal.
+Evelyn does not reside in the state so our main channel of communication is through email and video conferencing.
 
-Kayla will give us login information to the server that hosts sqrlsrus.com at our next meeting.
+She mentioned her relative, Herschel, can be a liaison for her.

@@ -1,23 +1,21 @@
 # What we are building and why
 
-Team Sqr.ly
+Team Sentence Sense
 
-Alice Lee, Brian Smith, Carol Williams, Derek Chen
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
 ## What we are building
 
-We are building a "squirrel". The squirrel will be a small, omnivorous, mostly tree-dwelling mammal. It will be 10 inches long, with an 8-inch tail. It will be covered in short gray-brown fur. The tail will be very bushy. The squirrel will have big black eyes and little rounded ears that stick up. It will walk on four feet. It will be able to climb up and down trees with ease. It will eat mostly seeds and nuts, but it will be able to eat all kinds of plant matter. It will also be able to eat insects, bird eggs, small birds, and M&Ms when plant matter is hard to find. As a result, it will thrive in cities.
+We are creating a new website for Sentence Sense.  The new website will draw from the old website’s Part One.  The new website will revise content from the old website and reorganize and compress content from the original site.  
 
-It will be eaten by humans, birds of prey, larger carnivorous and omnivorous mammals such as raccoons and cats, and snakes. In human cooking, its meat will be an acceptable substitute for chicken but be slightly "gamey".
+Sentence Sense is an interactive online learning experience.  The website will have interactive learning exercises for the students.  The results of these exercises will be able to be tracked and analyzed by instructors or tutors.  At the end of each chapter, there will be a Review and Practice section that will test the user and link them to the sections corresponding to the incorrect answers.  The results from this test will also be able to be tracked by an instructor or tutor.
 
-Because it will eat mostly seeds and nuts, it will play an important role in distributing the seeds of trees.
+The site’s text and displays will be designed for screens 4 x 6 inches or larger. The site will also allow for expansion to include later chapters.  The new website will be launched on a server that can support and pilot it while the remaining parts are being built.
+
+Because the website will be used by students ages twelve and up, it is important to design a lean, intuitive and easily navigable website.
 
 ## Why we are building it
 
-The squirrel addresses un- or under-met needs of three stakeholder groups: trees, medium-sized carnivores and omnivores in cities, and humans in cities.
+This website will satisfy the need for an online resource, not found on any other similar website, that teaches “how a sentence works.” Other websites do well to teach prescriptive grammar (how to fix errors) but there are none that focus on how sentences work (descriptive grammar). This website will hope to be the resource which provides this missing information by providing interactive lessons with games and visualizations.
 
-The squirrel meets an unmet seed distribution need for trees. There are currently two main classes of distributors of tree seeds: herbivorous birds and large mammals such as beavers and bears. Birds can move seeds large distances, but tend to be small and only eat a few seeds. Additionally, some seeds need to be distributed locally; far-ranging birds distribute seeds sparsely over a large area, rather than densely throughout the local area. Large mammals distribute seeds well locally, but prefer other food sources such as fish and fruit, and eat seeds only when their preferred food is scarce. In contrast, the squirrel is a seed and nut specialist. It travels extensively for a ground animal, but does not fly, addressing the need for denser local seed distribution.
-
-The squirrel meets an unmet food need for medium-sized urban carnivores and omnivores. Most medium-sized urban carnivores and omnivores feed mainly on discarded human food. Discarded human food poses three kinds of health risks to urban carnivores and omnivores. First, it may be toxic. Second, it may be mixed with dangerous non-food items such as plastics or metals. Third, it is easy to get, so urban carnivores and omnivores may live sedentary lifestyles. A small, nimble seed and nut specialist offers a high-quality food source and a great reason to stay active.
-
-The squirrel offers urban humans two kinds of benefits. First, as for non-human urban omnivores, it is a potentially high-quality, low-cost food source. Crucially, the squirrel will be small and has a low meat content compared to typical human meat sources such as chicken, pigs, and cattle. Squirrels are therefore unlikely to be produced in concentrated animal feeding operations (CAFOs), which would put its health and cost advantages as a human food source at risk. Second, the squirrel will be adorable, offering aesthetic benefits and hours of entertainment for humans. This will improve quality of life and boost tourism revenues.
+There will be various types of users who will be able to utilize this website including students in college, high school, home school programs, as well as adults and independent learners. The website will cater to users age 12 and up who are able to read English at an 8th grade level. Due to this wide audience the website will need to not only be appealing to all these different types of users, but also still teach them valuable lessons that are applicable to each individual’s personal life and situations for which they are using this resource in the first place.

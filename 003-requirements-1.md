@@ -1,35 +1,55 @@
 # What this software must do
 
-Team Sqr.ly
+Team Sentence Sense
 
-Alice Lee, Brian Smith, Carol Williams, Derek Chen
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
 ## Assumptions
 
-To function, the squirrel must:
+The user:
 
-+ have its nutritional needs met
-+ sleep 14 hours per day
-+ have access to a safe location for sleeping
-+ have access to a location sheltered from wind, rain, and cold (below 0 C)
-+ have an unobstructed digestive tract
++ Will have a web browser
++ Will have an internet connection
++ Will be at least 12 years old
++ Will have the ability to read in English or above 8th grade reading level
++ May be a student in college, high school, and home-schooling programs, adults and independent learners
+
 
 ## Functional requirements
 
-The squirrel shall:
+The website will:
 
-+ be 10 inches long
-+ have an 8-inch tail
-+ be able to digest seeds, nuts, tree bark, fruit, other plant matter, bird eggs, small birds, insects, M&Ms, and bagels
-+ have excellent vision
-+ be able to jump up to 5 feet horizontally
-+ be able to defend against bacterial and viral infections
-+ be able to breed up to twice a year
-+ be able to live up to 20 years under safe conditions with good nutrition
++ Be viewable on screen sizes 4x6 and larger
++ Provide  tracking, diagnostic analysis, evaluation, and recordkeeping of user activity for use by the sponsor as feedback
++ Allow interaction between users:
+   + This will probably require users to have their own accounts
+   + The results of exercises could be shared electronically with teachers or tutors for help in lesson planning
+   + Mastery Test, and results can be reported to teachers for assessment and recordkeeping
+   + Activities will be adapted for electronic communication among fellow site-users
+   + Culminating activities in each chapter will prompt collaboration with other site users
++ Facilitate the trading of exercise either through a class discussion board or some posting location for users who are not members of a class
++ Expansion and maintenance:
+   + Site design can expand to incorporate later chapters
+   + New site can be launch on server that can support and pilot it while the remaining parts are being built
++ Have 7 parts:
+   + Introduction & Overview
+   + Chapter 2
+   + Chapter 3
+   + Chapter 4
+   + Chapter 5
+   + Chapter 6
+   + Chapter 7
+
 
 ## Non-functional requirements
 
-The squirrel shall:
++ Usability:
+   + Activity on the site will be individual and self-paced
+   + Design should be lean, intuitive, and easily navigable
+   + Consolidate and revise the site for unity and consistency
+   + Guiding users in their review of each topic
++ The website should be available 24/7 and if it crashes it should be up again within 24 hours
++ The website should be equally fast on a mobile device as on a computer
+ 
 
-+ use energy efficiently while foraging
-+ be adorable at least 50% of the time while moving around
+
