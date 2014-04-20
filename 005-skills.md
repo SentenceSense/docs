@@ -43,10 +43,11 @@ I will communicate my learning at team meetings.
 1.What is your name?
 Dylan Shigekawa
 
-2.In general, how well can you code? Pick one of �real good,� �pretty good,� �okay,� or �not at all.�
+2.In general, how well can you code? Pick one of real good, pretty good, okay, or not at all.
+
 Not at all - Okay
 
-3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of �lots and lots,� �a couple times,� �once,� �never,� or �I never even heard of this thing.�
+3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of lots and lots, a couple times, once, never, or I never even heard of this thing.
 Never
 
 4.To contribute fully to the project, what do you need to learn?
@@ -61,8 +62,8 @@ Monday: ~4 hours between 12pm - 10pm | Tuesday: ~2 hours after 5pm | Wednesday: 
 7.Where will you be at those times?
 My room, Courtyard Study Lounge (CSL), ICS 193, anywhere relatively quiet
 
-8.How will you learn what you need to learn? Be as specific as possible. �I will work through Chapters 1�5 of Hello, Android� is much better than �I will do some tutorials about Android programming.�
-I will work through the 11 chapters of �Getting Started with Rails� on http://guides.rubyonrails.org. For JavaScript, I will work through the tutorial on http://www.w3schools.com 
+8.How will you learn what you need to learn? Be as specific as possible. I will work through Chapters 1-5 of Hello, Android is much better than I will do some tutorials about Android programming.
+I will work through the 11 chapters of Getting Started with Rails on http://guides.rubyonrails.org. For JavaScript, I will work through the tutorial on http://www.w3schools.com 
 
 9.How will you communicate your learning to your team? 
 I will meet with my team at least every week after sponsor meetings, during lab hours, discussion, and/or any other predetermined time as we see fit.
@@ -72,10 +73,10 @@ I will meet with my team at least every week after sponsor meetings, during lab 
 1.What is your name?
 Pen Han Chang
 
-2.In general, how well can you code? Pick one of �real good,� �pretty good,� �okay,� or �not at all.�
+2.In general, how well can you code? Pick one of real good, pretty good, okay, or not at all.
 Not at all
 
-3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of �lots and lots,� �a couple times,� �once,� �never,� or �I never even heard of this thing.�
+3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of lots and lots, a couple times, once, never, or I never even heard of this thing.
 Once
 
 4.To contribute fully to the project, what do you need to learn?
@@ -90,7 +91,7 @@ Monday: 4 hours between 11pm-3pm | Tuesday: 4 hours 1pm-5pm | Wednesday: 4 hours
 7.Where will you be at those times?
 My home, anywhere quiet.
 
-8.How will you learn what you need to learn? Be as specific as possible. �I will work through Chapters 1�5 of Hello, Android� is much better than �I will do some tutorials about Android programming.�
+8.How will you learn what you need to learn? Be as specific as possible. I will work through Chapters 1-5 of Hello, Android is much better than I will do some tutorials about Android programming.
 Will do chapters exercise on RubyonRails. Also the coding school for javascript.
 
 9.How will you communicate your learning to your team? 
@@ -101,10 +102,10 @@ I will meet with my team after our sponsor meeting, discussion, after lecture, a
 1.What is your name?
 Tsz Hang Ng
 
-2.In general, how well can you code? Pick one of �real good,� �pretty good,� �okay,� or �not at all.�
+2.In general, how well can you code? Pick one of real good, pretty good, okay, or not at all.
 Not at all/okay
 
-3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of �lots and lots,� �a couple times,� �once,� �never,� or �I never even heard of this thing.�
+3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of lots and lots, a couple times, once, never, or I never even heard of this thing.
 I have never used Ruby on Rails, Javascript. And I have some Python experience.
 
 4.To contribute fully to the project, what do you need to learn?
@@ -125,27 +126,27 @@ Sunday 3:00p.m. - 6:00p.m
 7.Where will you be at those times?
 My apartment.
 
-8.How will you learn what you need to learn? Be as specific as possible. �I will work through Chapters 1�5 of Hello, Android� is much better than �I will do some tutorials about Android programming.�
+8.How will you learn what you need to learn? Be as specific as possible. I will work through Chapters 1-5 of Hello, Android is much better than I will do some tutorials about Android programming.
 For Ruby, I will read all the chapter and do all the exercise on http://guides.rubyonrails.org. For JavaScript, I will work through the tutorial on http://www.w3schools.com.
 
 9.How will you communicate your learning to your team? 
-I will list all the skills that I learnt to my team, also I will provide help if I know that skill but my teammate doesn�t.
+I will list all the skills that I learnt to my team, also I will provide help if I know that skill but my teammate doesn't.
 
 
 
 1.What is your name?
 Darien Vidaure
 
-2.In general, how well can you code? Pick one of �real good,� �pretty good,� �okay,� or �not at all.�
+2.In general, how well can you code? Pick one of real good, pretty good, okay, or not at all.
 Not at all/okay
 
-3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of �lots and lots,� �a couple times,� �once,� �never,� or �I never even heard of this thing.�
+3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of lots and lots, a couple times, once, never, or I never even heard of this thing.
 Ruby - never
 Rails - never
-Javascript � never
+Javascript - never
 
 4.To contribute fully to the project, what do you need to learn?
-I�m going to need to learn Ruby on Rails and possibly Javascript as well if we are going to create interactive game modules..
+I'm going to need to learn Ruby on Rails and possibly Javascript as well if we are going to create interactive game modules..
 
 5.In the next two weeks (weeks 4 and 5), how many hours will you spend learning what you need to learn to be able to contribute fully to the project?
 I hope to spend between 20-40 hours learning and practicing these things.
@@ -160,8 +161,8 @@ Fridays, Saturdays, and Sundays from 12-2 pm
 7.Where will you be at those times?
 I will be either at home in my room or a study area somewhere on-campus.
 
-8.How will you learn what you need to learn? Be as specific as possible. �I will work through Chapters 1�5 of Hello, Android� is much better than �I will do some tutorials about Android programming.�
-To learn Rails I will go through the 11 chapters of Getting Started With Rails at http://guides.rubyonrails.org/getting_started.html. To Learn Ruby I will use the �TryRuby!� and RubyMonk� tutorials from https://www.ruby-lang.org/en/documentation/
+8.How will you learn what you need to learn? Be as specific as possible. I will work through Chapters 1-5 of Hello, Android is much better than I will do some tutorials about Android programming.
+To learn Rails I will go through the 11 chapters of Getting Started With Rails at http://guides.rubyonrails.org/getting_started.html. To Learn Ruby I will use the TryRuby! and RubyMonk uttorials from https://www.ruby-lang.org/en/documentation/
 
 9.How will you communicate your learning to your team? 
 I will discuss with them during our meetings and possibly even work together with them.
