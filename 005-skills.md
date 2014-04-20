@@ -12,11 +12,13 @@ Part 2
 1.What is your name?
 Derick Nguyen
 
-2.In general, how well can you code? Pick one of �real good,� �pretty good,� �okay,� or �not at all.�
+2.In general, how well can you code? Pick one of real good,pretty good,okay, or not at all.
 Not at all - okay. My only experience coding is in the introductory courses required.
 
-3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of �lots and lots,� �a couple times,� �once,� �never,� or �I never even heard of this thing.�
-I have never used Ruby but I do have experience with Python (which I have been told is similar to Ruby). I have used Wordpress once briefly to create a very simple blog.  I have never used a rails framework. 
+3.How many times before have you used the language(s) and/or framework(s) you are using in this project? For each language or framework, pick one of ots and lots, a couple times, once, never, or I never even heard of this thing.
+I have never used Ruby but I do have experience with Python (which I have been told is similar to Ruby). 
+I have used Wordpress once briefly to create a very simple blog.  
+I have never used a rails framework. 
 
 4.To contribute fully to the project, what do you need to learn?
 Depending on which path the team chooses, I will need to learn Ruby on Rails.  I may also need to learn how to create a more complex WordPress.  Later in the project, I may also need to learn Java in order to create interactive modules.
@@ -30,7 +32,7 @@ Individually, I keep most of my nights free after 9 in order to work on schoolwo
 7.Where will you be at those times?
 I will mainly be at my apartment during these times.
 
-8.How will you learn what you need to learn? Be as specific as possible. �I will work through Chapters 1�5 of Hello, Android� is much better than �I will do some tutorials about Android programming.�
+8.How will you learn what you need to learn? Be as specific as possible. I  will work through Chapters 1-5 of Hello, Android is much better than I will do some tutorials about Android programming.
 I will work through the Ruby on Rails guide and watch Youtube videos that are available.
 
 9.How will you communicate your learning to your team? 
