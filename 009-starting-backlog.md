@@ -39,3 +39,10 @@
 ####- A game format (consistent through all chapters) for “Review and Practice,” with an option for sharing results with a teacher or tutor.
 ####- Another consistent format for “Mastery Test”, also with a sharing option for teacher or tutor.
 ####- A “Fun with Grammar” section, designed to fit the chapter’s topic.
+
+
+*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
+    viverra nec, fringilla in, laoreet vitae, risus.
+*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+    Suspendisse id sem consectetuer libero luctus adipiscing.
