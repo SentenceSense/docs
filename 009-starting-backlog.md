@@ -1,10 +1,12 @@
 1. Pre-Planning/Setup
+
 ### Explore the old website and become familiar with its content
 ### Get access to BlueHost account
 ### Install WordPress and explore themes
 ### Setup FTP for WordPress
 
 2. Introduction
+
 ### Establish site design.
 #### Create mockups using Balsamiq
 #### Include navigation links to background pages (publication history and copyright, use guidance,contacts, etc.) 
@@ -15,6 +17,7 @@
 #### B & C (displays)
 
 3. Chapter 1 - Overview
+
 ### Transfer content from old website (expository text) 
 ### Start working on Modules:
 #### D (writing screen, sharable with other users)
@@ -29,6 +32,7 @@
 8. Chapter 6 - Sentence Combining
 9. Chapter 7 - Punctuation
 10. Chapter 8 - ELL Tips
+
 ### All the above chapters need the following:
 #### Opening writing screen that can save text for retrieval at the end of the chapter (described in notes for D).
 #### Games and displays for the explorations of the chapter’s topics: 3-6 game formats that can be applied with different content from chapter to chapter (can repeat modules from Intro and Chapter 1 as appropriate, or develop new ones).
