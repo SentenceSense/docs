@@ -1,6 +1,6 @@
-####Team Sentence Sense
-###Sentence Sense Website Redesign
-####Software Design Document
+###Team Sentence Sense
+##Sentence Sense Website Redesign
+###Software Design Document
 
 
 
@@ -18,17 +18,17 @@ Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
 ###Table of Contents
 
-##1.      Introduction
+####1.      Introduction
     1.1    Purpose
     1.2    Scope
     1.3    Overview
-##2.     System Overview
-##3.     System Architecture
+####2.     System Overview
+####3.     System Architecture
     3.1     Architectural Design
-##4.      Human Interface Design
+####4.      Human Interface Design
     4.1    Overview of User Design
     4.2    Screen Objects and Actions
-##5.      Requirements Matrix
+####5.      Requirements Matrix
 
 
 
@@ -90,44 +90,61 @@ Usability:
 
 Use Case #1 Admin adds content
 Admin points the browser to admin.experimentalsentencesyntax.com.
+
 Site asks for password. Admin enters password.
+
 Admin sees an overview of all content.
+
 List of all parts
+
 Under each part, there are chapters.
+
 Under each chapter, there are sections.
+
 Under the whole list, admin can click “New Part”.
+
 Within the “Part”, admin can click “New Chapter”.
+
 Next to each “Chapter”, there are options to “View”, “Edit” and “Delete.
+
 After editing content, admin can publish to website.
  
 Use Case #2 User uses the website
+
 User points the browser to experiemntalsentencesyntax.com.
+
 User clicks on Part desired.
+
 User clicks on Chapter desired.
+
 If user wishes to continue from within a chapter, user clicks on section desired.
+
 After completing the chapter, user will be given a test.
+
 User fills in the test and clicks to submit results.
+
 User reviews mistakes and can click on section where the mistake was taught.
+
 User can send the result to another party (teacher, professor, tutor, etc.) via an email.
 
 
 ### System Architecture
 The website will:
 
-   +Allow the admin to modify the website’s content
-   +Be viewable on screen sizes 4x6 and larger
-   +Provide  tracking, diagnostic analysis, evaluation, and recordkeeping of user activity for use by   the sponsor as feedback
-   +Allow interaction between users
-+ This will probably require users to have their own accounts
-+ The results of exercises could be shared electronically with teachers or tutors for help in lesson planning
-+ Mastery Test, and results can be reported to teachers for assessment and recordkeeping
-+ Activities will be adapted for electronic communication among fellow site-users
-+ Culminating activities in each chapter will prompt collaboration with other site users
-   +Facilitate the trading of exercise either through a class discussion board or some posting location for users who are not members of a class
-   +Site should have a search box for key term
-   +Expansion and maintenance:
-+ Site design can expand to incorporate later chapters
-+ New site can be launched on server that can support and pilot it while the remaining parts are being built
++ Allow the admin to modify the website’s content
++ Be viewable on screen sizes 4x6 and larger
++ Provide  tracking, diagnostic analysis, evaluation, and recordkeeping of user activity for use by   the sponsor as feedback
++ Allow interaction between users
+  + This will probably require users to have their own accounts
+  + The results of exercises could be shared electronically with teachers or tutors for help in lesson planning
+  + Mastery Test, and results can be reported to teachers for assessment and recordkeeping
+  + Activities will be adapted for electronic communication among fellow site-users
+  + Culminating activities in each chapter will prompt collaboration with other site users
++ Facilitate the trading of exercise either through a class discussion board or some posting location for users who are not members of a class
++ Site should have a search box for key term
++ Expansion and maintenance:
+  + Site design can expand to incorporate later chapters
+  + New site can be launched on server that can support and pilot it while the remaining parts are being built
 
 
 ### Human Interface Design
