@@ -95,7 +95,7 @@ Use Case #1 Admin adds content
 
 3. Admin sees an overview of all content.
 
- a. List of all parts
+  a. List of all parts
  
     i. Under each part, there are chapters.
     
