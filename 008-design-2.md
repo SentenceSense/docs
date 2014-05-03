@@ -97,9 +97,9 @@ Use Case #1 Admin adds content
 
   a. List of all parts
  
-    i. Under each part, there are chapters.
+  + Under each part, there are chapters.
     
-    ii. Under each chapter, there are sections.
+  + Under each chapter, there are sections.
     
 4. Under the whole list, admin can click “New Part”.
 
