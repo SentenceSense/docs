@@ -1,4 +1,4 @@
-# Weeks 4/5 Sponsor Meeting Report
+# Weeks 4/5 Sponsor Meeting Report (Did not meet week 5 per request of the client)
 
 Team Sentence Sense
 
