@@ -88,6 +88,7 @@ Usability:
 + The website should be equally fast on a mobile device as on a computer
 
 Use Case #1 Admin adds content
+
 1. Admin points the browser to admin.experimentalsentencesyntax.com.
 
 2. Site asks for password. Admin enters password.
@@ -95,7 +96,9 @@ Use Case #1 Admin adds content
 3. Admin sees an overview of all content.
 
  a. List of all parts
+ 
     i. Under each part, there are chapters.
+    
     ii. Under each chapter, there are sections.
     
 4. Under the whole list, admin can click “New Part”.
@@ -108,6 +111,7 @@ Use Case #1 Admin adds content
  
 
 Use Case #2 User uses the website
+
 1. User points the browser to experiemntalsentencesyntax.com.
 
 2. User clicks on Part desired.
