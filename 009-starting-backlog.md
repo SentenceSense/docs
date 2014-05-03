@@ -1,11 +1,11 @@
-1. Pre-Planning/Setup
+#1. Pre-Planning/Setup
 
 ### Explore the old website and become familiar with its content
 ### Get access to BlueHost account
 ### Install WordPress and explore themes
 ### Setup FTP for WordPress
 
-2. Introduction
+#2. Introduction
 
 ### Establish site design.
 #### Create mockups using Balsamiq
@@ -16,7 +16,7 @@
 #### A (game) 
 #### B & C (displays)
 
-3. Chapter 1 - Overview
+#3. Chapter 1 - Overview
 
 ### Transfer content from old website (expository text) 
 ### Start working on Modules:
@@ -25,13 +25,13 @@
 #### F (game)
 #### G (exactly like A)
 
-4. Chapter 2 - Verbs
-5. Chapter 3 - Subjects and Completers
-6. Chapter 4 - Modifiers
-7. Chapter 5 - Embedded Thought
-8. Chapter 6 - Sentence Combining
-9. Chapter 7 - Punctuation
-10. Chapter 8 - ELL Tips
+#4. Chapter 2 - Verbs
+#5. Chapter 3 - Subjects and Completers
+#6. Chapter 4 - Modifiers
+#7. Chapter 5 - Embedded Thought
+#8. Chapter 6 - Sentence Combining
+#9. Chapter 7 - Punctuation
+#10. Chapter 8 - ELL Tips
 
 ### All the above chapters need the following:
 #### Opening writing screen that can save text for retrieval at the end of the chapter (described in notes for D).
