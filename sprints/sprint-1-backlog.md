@@ -4,5 +4,5 @@
 
 #2. Introduction
 ###* Establish site design.
-####- Create mockups using Balsamiq
+####-   Create mockups using Balsamiq
 ###* Transfer content from old website (expository text)
