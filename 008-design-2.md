@@ -1,6 +1,6 @@
-Team Sentence Sense
-Sentence Sense Website Redesign
-Software Design Document
+####Team Sentence Sense
+###Sentence Sense Website Redesign
+####Software Design Document
 
 
 
@@ -13,20 +13,22 @@ Software Design Document
 
 
 Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
-05/03/2014
-Table of Contents
 
-1.      Introduction
+05/03/2014
+
+###Table of Contents
+
+##1.      Introduction
     1.1    Purpose
     1.2    Scope
     1.3    Overview
-2.     System Overview
-3.     System Architecture
+##2.     System Overview
+##3.     System Architecture
     3.1     Architectural Design
-4.      Human Interface Design
+##4.      Human Interface Design
     4.1    Overview of User Design
     4.2    Screen Objects and Actions
-5.      Requirements Matrix
+##5.      Requirements Matrix
 
 
 
@@ -78,13 +80,13 @@ The document will contain a description and requirement overview of the website.
 
 ### System Overview
 Usability:
-  +Activity on the site will be individual and self-paced
-  +Design should be lean, intuitive, and easily navigable
-  +Consolidate and revise the site for unity and consistency
-  +Guiding users in their review of each topic
-  +The website should be viewable on any type of browser
-  +The website should be available 24/7 and if it crashes it should be up again within 24 hours
-  +The website should be equally fast on a mobile device as on a computer
++ Activity on the site will be individual and self-paced
++ Design should be lean, intuitive, and easily navigable
++ Consolidate and revise the site for unity and consistency
++ Guiding users in their review of each topic
++ The website should be viewable on any type of browser
++ The website should be available 24/7 and if it crashes it should be up again within 24 hours
++ The website should be equally fast on a mobile device as on a computer
 
 Use Case #1 Admin adds content
 Admin points the browser to admin.experimentalsentencesyntax.com.
