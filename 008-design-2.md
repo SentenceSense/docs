@@ -89,27 +89,27 @@ Usability:
 + The website should be equally fast on a mobile device as on a computer
 
 Use Case #1 Admin adds content
-Admin points the browser to admin.experimentalsentencesyntax.com.
-Site asks for password. Admin enters password.
-Admin sees an overview of all content.
-List of all parts
-Under each part, there are chapters.
-Under each chapter, there are sections.
-Under the whole list, admin can click “New Part”.
-Within the “Part”, admin can click “New Chapter”.
-Next to each “Chapter”, there are options to “View”, “Edit” and “Delete.
-After editing content, admin can publish to website.
+1. Admin points the browser to admin.experimentalsentencesyntax.com.
+2. Site asks for password. Admin enters password.
+3. Admin sees an overview of all content.
+ a. List of all parts
+    i. Under each part, there are chapters.
+    ii. Under each chapter, there are sections.
+4. Under the whole list, admin can click “New Part”.
+5. Within the “Part”, admin can click “New Chapter”.
+6. Next to each “Chapter”, there are options to “View”, “Edit” and “Delete.
+7. After editing content, admin can publish to website.
  
 
 Use Case #2 User uses the website
-User points the browser to experiemntalsentencesyntax.com.
-User clicks on Part desired.
-User clicks on Chapter desired.
-If user wishes to continue from within a chapter, user clicks on section desired.
-After completing the chapter, user will be given a test.
-User fills in the test and clicks to submit results.
-User reviews mistakes and can click on section where the mistake was taught.
-User can send the result to another party (teacher, professor, tutor, etc.) via an email.
+1. User points the browser to experiemntalsentencesyntax.com.
+2. User clicks on Part desired.
+3. User clicks on Chapter desired.
+4. If user wishes to continue from within a chapter, user clicks on section desired.
+5. After completing the chapter, user will be given a test.
+6. User fills in the test and clicks to submit results.
+7. User reviews mistakes and can click on section where the mistake was taught.
+8. User can send the result to another party (teacher, professor, tutor, etc.) via an email.
 
 
 ### System Architecture
