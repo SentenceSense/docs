@@ -7,7 +7,7 @@
 
 #2. Introduction
 
-###* Establish site design.
+###* Establish site design:
 ####- Create mockups using Balsamiq
 ####- Include navigation links to background pages (publication history and copyright, use guidance,contacts, etc.) 
 ####- Establish a hit counter and a tally system to evaluate use of each page.
