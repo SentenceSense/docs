@@ -183,48 +183,23 @@ Email Results
 
 ### Requirements Matrix
 
+Custom Content Management System:
++ Allow admin to modify content
++ Allow admin to add content
++ Have 7 parts
++ Viewable on screens 4x6 and larger
++ JavaScript inside HTML5 Canvas
++ Interactive modules
 
-System Component that Satisfies Functional Requriement
+Email add on:
++ Provide recordkeeping
 
+Search add on:
++ Search Box for key term
 
-
-
-
-
-
-
-Custom Content Management System
-Allow admin to modify content
-Allow admin to add content
-Have 7 parts
-Viewable on screens 4x6 and larger
-JavaScript inside HTML5 Canvas
-Interactive modules
-
-
-
-
-
-
-Email add on
-Provide recordkeeping
-
-
-
-
-
-
-Search add on
-Search Box for key term
-
-
-
-
-
-
-Unresolved
-Community interaction (e.g. messageboard, forum)
-Collaboration in modules of games
+Unresolved:
++ Community interaction (e.g. messageboard, forum)
++ Collaboration in modules of games
 
 
 
