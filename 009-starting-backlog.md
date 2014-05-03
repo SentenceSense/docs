@@ -1,9 +1,9 @@
 #1. Pre-Planning/Setup
 
-### Explore the old website and become familiar with its content
-### Get access to BlueHost account
-### Install WordPress and explore themes
-### Setup FTP for WordPress
+### *Explore the old website and become familiar with its content
+### *Get access to BlueHost account
+### *Install WordPress and explore themes
+### *Setup FTP for WordPress
 
 #2. Introduction
 
