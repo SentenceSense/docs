@@ -78,13 +78,13 @@ The document will contain a description and requirement overview of the website.
 
 ### System Overview
 Usability:
-  -Activity on the site will be individual and self-paced
-  -Design should be lean, intuitive, and easily navigable
-  -Consolidate and revise the site for unity and consistency
-  -Guiding users in their review of each topic
-  -The website should be viewable on any type of browser
-  -The website should be available 24/7 and if it crashes it should be up again within 24 hours
-  -The website should be equally fast on a mobile device as on a computer
+  +Activity on the site will be individual and self-paced
+  +Design should be lean, intuitive, and easily navigable
+  +Consolidate and revise the site for unity and consistency
+  +Guiding users in their review of each topic
+  +The website should be viewable on any type of browser
+  +The website should be available 24/7 and if it crashes it should be up again within 24 hours
+  +The website should be equally fast on a mobile device as on a computer
 
 Use Case #1 Admin adds content
 Admin points the browser to admin.experimentalsentencesyntax.com.
@@ -112,18 +112,18 @@ User can send the result to another party (teacher, professor, tutor, etc.) via 
 ### System Architecture
 The website will:
 
-   -Allow the admin to modify the website’s content
-   -Be viewable on screen sizes 4x6 and larger
-   -Provide  tracking, diagnostic analysis, evaluation, and recordkeeping of user activity for use by   the sponsor as feedback
-   -Allow interaction between users
+   +Allow the admin to modify the website’s content
+   +Be viewable on screen sizes 4x6 and larger
+   +Provide  tracking, diagnostic analysis, evaluation, and recordkeeping of user activity for use by   the sponsor as feedback
+   +Allow interaction between users
 + This will probably require users to have their own accounts
 + The results of exercises could be shared electronically with teachers or tutors for help in lesson planning
 + Mastery Test, and results can be reported to teachers for assessment and recordkeeping
 + Activities will be adapted for electronic communication among fellow site-users
 + Culminating activities in each chapter will prompt collaboration with other site users
-   -Facilitate the trading of exercise either through a class discussion board or some posting location for users who are not members of a class
-   -Site should have a search box for key term
-   -Expansion and maintenance:
+   +Facilitate the trading of exercise either through a class discussion board or some posting location for users who are not members of a class
+   +Site should have a search box for key term
+   +Expansion and maintenance:
 + Site design can expand to incorporate later chapters
 + New site can be launched on server that can support and pilot it while the remaining parts are being built
 
