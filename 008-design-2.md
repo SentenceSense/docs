@@ -1,5 +1,5 @@
 ##Team Sentence Sense
-###Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 #Sentence Sense Website Redesign
 ##Software Design Document
 
