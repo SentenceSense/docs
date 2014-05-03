@@ -34,15 +34,10 @@
 #10. Chapter 8 - ELL Tips
 
 ###* All the above chapters need the following:
-####- Opening writing screen that can save text for retrieval at the end of the chapter (described in notes for D).
-####- Games and displays for the explorations of the chapter’s topics: 3-6 game formats that can be applied with different content from chapter to chapter (can repeat modules from Intro and Chapter 1 as appropriate, or develop new ones).
+* Opening writing screen that can save text for retrieval at the end of the chapter (described in notes for D).
+* Games and displays for the explorations of the chapter’s topics: 3-6 game formats that can be applied with different content from chapter to chapter (can repeat modules from Intro and Chapter 1 as appropriate, or develop new ones).
 ####- A game format (consistent through all chapters) for “Review and Practice,” with an option for sharing results with a teacher or tutor.
 ####- Another consistent format for “Mastery Test”, also with a sharing option for teacher or tutor.
 ####- A “Fun with Grammar” section, designed to fit the chapter’s topic.
 
 
-*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-    viverra nec, fringilla in, laoreet vitae, risus.
-*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-    Suspendisse id sem consectetuer libero luctus adipiscing.
