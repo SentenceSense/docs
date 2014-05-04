@@ -70,7 +70,7 @@ There will be various types of users who will be able to utilize this website in
 Building a CMS for our sponsor will allow her to easily change the website’s content without requiring much technical knowledge. This will remove the need for a dedicated website technician once we are finished with this project.
 
 #### Scope
-After we finished building the new webpage, the webpage should provide a new, simple, more interactive between teachers and students, and user-friendly function for users to learn English, viewing grades, and communicate. Simple, client requires the whole web page look simple, this can prevent user to feel confuse when they access the website. More interactive, for example students can play games on the website, teachers can leave comments on the exercises for students and students can communicate with the teachers through the website, so students can have more understanding what are the mistake that they have made and they can ask question to teachers immediately. 
+After we finish building the new webpage, it should provide a new, simple, more interactive experience between teachers and students, and user-friendly function for users to learn English, view grades, and communicate. The client requires the whole web page to look simple to prevent the user from feeling confused when accessing the website. Students can play games on the website, teachers can leave comments on the exercises for students, and students can communicate with the teachers through the website. This gives students a better understanding of the mistakes that they have made and allows them to pose questions to teachers immediately.  
 
 
 #### Overview
