@@ -7,7 +7,7 @@ Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure
 
 ## Who was there?
 
-Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure, Hadar Ziv(for our 1st meeting)
+Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure, Hadar Ziv (for our 1st meeting)
 
 ## Where was it?
 
