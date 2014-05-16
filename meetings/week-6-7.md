@@ -1,4 +1,5 @@
-﻿# Weeks 6/7 Sponsor Meeting Report (Did not meet week 7 per request of the client, but we met twice during week 6)
+﻿# Weeks 6/7 Sponsor Meeting Report 
+(Did not meet week 7 per request of the client, but we met twice during week 6)
 
 Team Sentence Sense
 
