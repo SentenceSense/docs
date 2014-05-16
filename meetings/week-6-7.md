@@ -11,13 +11,13 @@ Pen Han Chang, Tsz Hang Ng, Derick Nguyen, Dylan Shigekawa, Darien Vidaure, Hada
 
 ## Where was it?
 
-CSL Room #3
-Le Diplomate at UTC
+* CSL Room #3
+* Le Diplomate at UTC
 
 ## When was it?
 
-Wednesday May 7, 1:00pm
-Friday May 9, 11:00am
+* Wednesday May 7, 1:00pm
+* Friday May 9, 11:00am
 
 ## Did you show your sponsor your progress? What did you show? What did they say?
 
