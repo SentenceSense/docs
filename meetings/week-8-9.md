@@ -1,11 +1,3 @@
-In the meetings directory in your team’s docs repository, make a file called week-8-9.md. It should answer these questions:
-     Who was there?
-     Where was it?
-     When was it?
-     Did you show your sponsor your progress? What did you show? What did they say?
-     Did you talk about what needs to be done between now and the end of the quarter (i.e., to deliver your minimum viable product)? What did you decide?
-If you have any other issues you want to tell us about, please add them in an appropriately named section.
-
 # Weeks 8/9 Sponsor Meeting Report
 
 Team Sentence Sense
